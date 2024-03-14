@@ -30,3 +30,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jijicodes&show_icons=true&locale=en&layout=compact" alt="jijicodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jijicodes&" alt="jijicodes" /></p>
+![github-header-image](https://github.com/jijicodes/jijicodes/assets/69917943/30f93140-5cb7-4829-af73-1a552a4c7239)
+![github-header-image](https://github.com/jijicodes/jijicodes/assets/69917943/3d97e6a3-ca1f-4f21-9eb2-2bdcc8b03e7f)
+![github-header-image](https://github.com/jijicodes/jijicodes/assets/69917943/1b6584eb-a97d-4cbe-a21d-37507eb1ec32)
