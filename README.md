@@ -16,7 +16,7 @@
 
 - 💬 Ask me about React</p>
 
-- ⚡ Fun fact I run 20K every week 🏃🏻‍♀️
+- ⚡ Fun fact: I run 20K(12.5 miles) every week 🏃🏻‍♀️
  </p>
 <h3 align="left">Connect with me:</h3>
 <p >
