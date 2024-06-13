@@ -10,13 +10,10 @@
 
 - 🔭 I’m currently working on building the next generation of dApps with React
 
-- 🌱 I’m currently learning about databases and backend technologies
-
 - 🥂 I’m looking to collaborate on building the web3 future
 
 - 💬 Ask me about React</p>
 
-- ⚡ Fun fact: I run 20K(12.5 miles) every week 🏃🏻‍♀️
  </p>
 
 <h3 align="left">Languages and Tools:</h3>
