@@ -1,4 +1,4 @@
-Hi 👋, I'm Jenna Seo, a passionate frontend developer in Web development. I am curretly working on building the next generation of dApps with React TypeScript.
+Hi 👋, I'm Jenna Seo, a passionate frontend developer in Web development. I am currently working on building the next generation of dApps with React TypeScript.
 
 ## About Me
 With a background in early childhood education, I bring a unique combination of organizational skills, patience, and curiosity to my work as a software engineer. My journey from teaching to tech has equipped me with a fresh perspective and a passion for continuous learning and problem-solving. I am dedicated to creating user-friendly and innovative solutions in the world of frontend development.
